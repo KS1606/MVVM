@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJf2TSWAfLL8kccBgUgs9oxGblxFG3LyKZy9m6zHEpenbMwcjGBGHyq17C6jhG1WW99ZrmlJd1W1m/XueXd15g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KS\\source\\repos\\MVVM\\MVVM\\MVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KS\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
